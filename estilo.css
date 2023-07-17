@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+a{
+    color: black;
+}
+footer{
+    font-size: x-small;
+}
+#titulo{
+    background-color: aqua;
+    margin-left: 800px; margin-top: 0;
+    width: 300px;
+}
+#busca{
+    position: initial;
+    border-radius: 0% 0 0 35%;
+    text-align: center;
+    border: 0.5px solid black;
+}
+button{
+    border-radius: 0% 45% 0 0;
+    border: 0.5px solid black;
+}
+#conta{
+    margin-top: 50px;
+}
